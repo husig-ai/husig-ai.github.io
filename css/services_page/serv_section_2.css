@@ -1,0 +1,93 @@
+/* CSS FOR about us page goes here  */
+
+section#about-us-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  padding-left: calc((120 / 1920) * 100vw);
+  padding-right: calc((120 / 1920) * 100vw);
+  padding-bottom: 60px;
+
+}
+
+section#about-us-page span.raw_data_span {
+  font-family: "Clash Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 72px;
+
+  display: inline;
+
+  background: linear-gradient(96.44deg, #6b138c 7%, #d2a6e2 33%, #600881 60%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+section#about-us-page .serv_Header {
+  display: inline;
+}
+
+section#about-us-page .serv_Para {
+  margin-top: 41px;
+  text-align: center;
+}
+
+img#about-us-hero-id {
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-top: 77px;
+}
+
+div#about-page-sec-2 {
+  margin-top: 204.48px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+    justify-content: space-between;
+
+}
+
+div#about-page-sec-2 p.serv_Title {
+    margin: 0;
+}
+
+.serv_Title {
+line-height: 59.4px;
+font-weight: 600;
+}
+
+
+.serv_Para , #about-us-hero-id {
+
+    padding-left: calc((142 / 1920) * 100vw);
+    padding-right: calc((142 / 1920) * 100vw);
+
+}
+
+div#left-side-about-s2 {
+    width: calc((682/1920)*100vw);
+}
+
+div#left-side-about-s2 img {
+    width: 100%;
+}
+
+#about-us-sec2-img {
+    margin-top: 36px;
+}
+
+#right-side-about-s2 {
+    padding-top: 5px;
+    max-width: calc((829/1920)*100vw);
+}
+
+#right-side-about-s2 p.serv_Para {
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
