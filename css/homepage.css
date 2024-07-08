@@ -7,8 +7,8 @@ img#mbl-teks-213 {
 .husig_h2_tag {
   font-family: "Clash Display";
   font-style: normal;
-  font-weight: 600;
-  font-size: 48px;
+  font-weight: 500;
+  font-size: 40px;
   line-height: 59px;
   color: #ffffff;
 }
@@ -28,9 +28,9 @@ img#mbl-teks-213 {
 }
 
 section.hero_section {
-  gap: 1.25%;
+  /* gap: 1.25%; */
   align-content: space-between;
-  padding: 132px 6.25%;
+  padding: 62px 6.25%;
   padding-bottom: 118px;
   position: relative;
   z-index: 20;
@@ -40,15 +40,14 @@ section.hero_section {
   /* end */
 }
 section.hero_section div.hero_text h1 {
-  /* Transform Raw Data Into Actionable Insights */
-  margin: 60px 0px 0px 0px;
+  /* margin: 60px 0px 0px 0px; */
   width: auto;
   min-width: 43.125%;
   font-family: "Clash Display";
   font-style: normal;
-  font-weight: 600;
-  font-size: 64px;
-  line-height: 72px;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 42px;
   /* or 112% */
   /* white */
   color: #ffffff;
@@ -112,7 +111,7 @@ div.clients {
   align-content: flex-start;
   font-family: "Clash Display";
   font-style: normal;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 32px;
   line-height: 39px;
   color: rgba(255, 255, 255, 0.2);
@@ -139,7 +138,7 @@ section#homepage-section-2 {
   z-index: 20;
   display: flex;
   flex-direction: column;
-  padding-top: 256px;
+  /* padding-top: 256px; */
   padding-left: 13.64%;
   padding-right: 13.64%;
 }
@@ -171,8 +170,8 @@ button.sec2_inactive_class {
   border: none;
   font-family: "General Sans";
   font-style: normal;
-  font-weight: 600;
-  font-size: 24px;
+  font-weight: 500;
+  font-size: 20px;
   line-height: 32px;
   /* white */
   color: #ffffff;
@@ -216,7 +215,7 @@ button.active {
 .purple_h2 {
   font-family: "Clash Display";
   font-style: normal;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 32px;
   line-height: 39px;
   margin: unset;
@@ -270,7 +269,7 @@ div.right .learn_more_cta {
 /* css for section 3 */
 #home-sec-3 {
   margin: 0px auto;
-  margin-top: 183px;
+  margin-top: 103px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -292,7 +291,7 @@ div.right .learn_more_cta {
 /* section 4 code */
 #home-sec-4 {
   margin: 0px auto;
-  margin-top: 292px;
+  margin-top: 103px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -324,7 +323,7 @@ div.right .learn_more_cta {
 #home-sec-4 .sec_4_texts ul li {
   font-family: "General Sans";
   font-style: normal;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 24px;
   line-height: 32px;
   color: #ffffff;
@@ -346,7 +345,7 @@ div.right .learn_more_cta {
   padding: 0;
   font-family: "Clash Display";
   font-style: normal;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 32px;
   line-height: 39px;
   /* white */

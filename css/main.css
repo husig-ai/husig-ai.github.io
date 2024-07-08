@@ -106,7 +106,7 @@ a {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  padding: 28px 6.25vw;
+  padding: 23px 6.25vw;
   /* gap: 342px; */
   min-width: 100%;
 }
@@ -214,7 +214,7 @@ a {
   }
 }
 .husig_header .logo {
-  width: 185px;
+  width: 135px;
   height: auto;
 }
 .husig_header #navbarDropdown::after {
@@ -570,6 +570,87 @@ div#footer-col-1 {
   grid-row: 2 / 3 !important;
 }
 
+}
 
-/* f o o t e r  e n d */
+/* blog */
+
+/* Sidebar and Content Layout */
+.content-with-sidebar {
+  display: flex;
+}
+
+.sidebar {
+  width: 30%;
+  padding: 20px;
+}
+
+.main-content {
+  width: 60%;
+  padding: 20px;
+}
+
+#TableOfContents {
+  margin-bottom: 20px;
+}
+
+.tags {
+  margin-top: 20px;
+}
+
+.tags ul {
+  list-style: none;
+  padding: 0;
+}
+
+.tags li {
+  margin-bottom: 10px;
+}
+
+.tags a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+.tags a:hover {
+  text-decoration: underline;
+}
+
+/* Table Styles similar to Bulma */
+table {
+  width: 100%;
+  margin-bottom: 1rem;
+  border-collapse: collapse;
+}
+
+table thead {
+  background-color: #f5f5f5;
+}
+
+table th, table td {
+  padding: 0.75rem;
+  text-align: left;
+  border: 1px solid #e5e5e5;
+}
+
+table th {
+  color: #363636;
+  font-weight: bold;
+}
+
+table tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+table tbody tr:hover {
+  background-color: #f1f1f1;
+}
+
+@media (max-width: 768px) {
+  .content-with-sidebar {
+    flex-direction: column;
+  }
+
+  .sidebar, .main-content {
+    width: 100%;
+  }
 }
