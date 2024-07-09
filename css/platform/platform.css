@@ -1,8 +1,8 @@
 h1#plat_Header_1 {
-  margin-top: 151px;
+  /* margin-top: 151px; */
   font-family: "Clash Display";
   font-style: normal;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 64px;
   line-height: 72px;
   /* identical to box height, or 112% */
@@ -20,7 +20,7 @@ div.plat_div_top {
 section.plat_desk_section {
   margin-left: calc((262 / 1920) * 100vw);
   margin-right: calc((262 / 1920) * 100vw);
-  margin-top: 96px;
+  /* margin-top: 96px; */
 }
 
 section.plat_desk_section .serv_Title {
