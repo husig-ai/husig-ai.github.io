@@ -572,7 +572,6 @@ div#footer-col-1 {
 
 }
 
-/* blog */
 
 /* Sidebar and Content Layout */
 .content-with-sidebar {
@@ -580,17 +579,53 @@ div#footer-col-1 {
 }
 
 .sidebar {
-  width: 30%;
+  width: 25%;
   padding: 20px;
 }
 
 .main-content {
-  width: 60%;
+  width: 70%;
   padding: 20px;
+  background: rgba(81, 43, 129, 0.1); /* Primary color with transparency */
+  border-radius: 8px; /* Optional: for rounded corners */
 }
 
 #TableOfContents {
   margin-bottom: 20px;
+  padding: 15px;
+  background-color: rgba(173, 90, 204, 0.1); /* Secondary color with transparency */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+#TableOfContents h2 {
+  font-size: 1.2em;
+  font-weight: 700;
+  margin-bottom: 10px;
+  color: #0b0118; /* Third color */
+  border-bottom: 2px solid #512b81; /* Primary color border */
+  padding-bottom: 5px;
+}
+
+#TableOfContents ul {
+  list-style-type: none;
+  padding: 0;
+  margin-left: 20px; /* Indentation for nested lists */
+}
+
+#TableOfContents li {
+  margin-bottom: 10px;
+}
+
+#TableOfContents a {
+  text-decoration: none;
+  color: #512b81; /* Primary color */
+  font-weight: 500;
+}
+
+#TableOfContents a:hover {
+  text-decoration: underline;
+  color: #0b0118; /* Third color */
 }
 
 .tags {
@@ -603,16 +638,24 @@ div#footer-col-1 {
 }
 
 .tags li {
-  margin-bottom: 10px;
+  display: inline; /* Inline display for tags */
+  margin-right: 5px;
 }
 
 .tags a {
+  display: inline-block;
+  padding: 0.25em 0.5em;
+  font-size: 0.75em;
+  font-weight: 700;
+  color: #fff;
+  background-color: #512b81; /* Primary color */
+  border-radius: 3px;
   text-decoration: none;
-  color: #007bff;
 }
 
 .tags a:hover {
-  text-decoration: underline;
+  background-color: #0b0118; /* Third color on hover */
+  text-decoration: none;
 }
 
 /* Table Styles similar to Bulma */
@@ -623,34 +666,65 @@ table {
 }
 
 table thead {
-  background-color: #f5f5f5;
+  background-color: rgba(81, 43, 129, 0.1); /* Primary color with transparency */
 }
 
 table th, table td {
   padding: 0.75rem;
   text-align: left;
-  border: 1px solid #e5e5e5;
+  border: 1px solid rgba(173, 90, 204, 0.5); /* Secondary color with transparency */
 }
 
 table th {
-  color: #363636;
+  color: #0b0118; /* Third color */
   font-weight: bold;
 }
 
 table tbody tr:nth-child(even) {
-  background-color: #f9f9f9;
+  background-color: rgba(173, 90, 204, 0.5); /* Secondary color with transparency */
 }
 
 table tbody tr:hover {
-  background-color: #f1f1f1;
+  background-color: #512b81; /* Primary color */
 }
 
+/* Responsive adjustments */
 @media (max-width: 768px) {
   .content-with-sidebar {
     flex-direction: column;
   }
 
-  .sidebar, .main-content {
+  .sidebar {
+    display: none; /* Hide sidebar on mobile */
+  }
+
+  .main-content {
     width: 100%;
   }
+}
+
+/* Code block styles */
+pre, code {
+  padding: 10px;
+  background: rgba(81, 43, 129, 0.1); /* Primary color with transparency */
+  border-radius: 5px;
+  overflow: auto;
+}
+
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  margin-bottom: 1.5em;
+}
+
+code {
+  font-family: monospace;
+}
+
+/* Image centering */
+.main-content img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
 }

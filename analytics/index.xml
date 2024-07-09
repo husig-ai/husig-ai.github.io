@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Husig.ai</title>
-    <link>https://example.org/analytics/</link>
+    <link>http://localhost:1313/analytics/</link>
     <description>Recent content in Services on Husig.ai</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://example.org/analytics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/analytics/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
