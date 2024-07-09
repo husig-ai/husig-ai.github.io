@@ -6,6 +6,119 @@
     <description>Recent content in Tags on Husig.ai</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classification</title>
+      <link>https://example.org/tags/classification/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/classification/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nlp</title>
+      <link>https://example.org/tags/nlp/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/nlp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zero-Shot</title>
+      <link>https://example.org/tags/zero-shot/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/zero-shot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Calculus</title>
+      <link>https://example.org/tags/calculus/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/calculus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gradient Descent</title>
+      <link>https://example.org/tags/gradient-descent/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/gradient-descent/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>https://example.org/tags/machine-learning/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Optimization</title>
+      <link>https://example.org/tags/optimization/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cart</title>
+      <link>https://example.org/tags/cart/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/cart/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ml</title>
+      <link>https://example.org/tags/ml/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/ml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paper</title>
+      <link>https://example.org/tags/paper/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/paper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Roc</title>
+      <link>https://example.org/tags/roc/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/roc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Smote</title>
+      <link>https://example.org/tags/smote/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/smote/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transformers</title>
+      <link>https://example.org/tags/transformers/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/transformers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Explainability</title>
+      <link>https://example.org/tags/explainability/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/explainability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game-Theory</title>
+      <link>https://example.org/tags/game-theory/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/game-theory/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shap</title>
+      <link>https://example.org/tags/shap/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/shap/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
