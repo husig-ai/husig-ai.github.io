@@ -1,0 +1,489 @@
+@media (max-width: 1256px) {
+  /* CSS FOR about us page goes here  */
+
+  section#about-us-page {
+    display: flex;
+    flex-direction: column !important;
+    align-items: center;
+
+    padding-left: calc((24 / 393) * 100vw);
+    padding-right: calc((24 / 393) * 100vw);
+    padding-bottom: 60px;
+    padding-top: 58px;
+  }
+
+  section#about-us-page span.raw_data_span {
+    font-family: "Clash Display";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+
+    display: inline;
+
+    background: linear-gradient(96.44deg, #6b138c 7%, #d2a6e2 33%, #600881 60%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+
+  section#about-us-page .serv_Header {
+    display: inline;
+    line-height: 40px;
+  }
+
+  section#about-us-page .serv_Para {
+    margin-top: 17px;
+    text-align: center;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: left;
+  }
+
+  img#about-us-hero-id {
+    box-sizing: border-box;
+    max-width: 100%;
+    margin-top: 24px;
+  }
+
+  div#about-page-sec-2 {
+    margin-top: 84px;
+    width: 100%;
+    display: flex;
+    flex-direction: column !important;
+    justify-content: space-between;
+  }
+
+  div#about-page-sec-2 p.serv_Title {
+    margin: 0;
+  }
+
+  .serv_Title {
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: 600;
+  }
+
+  .serv_Para,
+  #about-us-hero-id {
+    padding-left: calc((0 / 1920) * 100vw);
+    padding-right: calc((0 / 1920) * 100vw);
+  }
+
+  div#left-side-about-s2 {
+    width: 100%;
+  }
+
+  div#left-side-about-s2 img {
+    width: 100%;
+  }
+
+  #about-us-sec2-img {
+    margin-top: 36px;
+  }
+
+  #right-side-about-s2 {
+    padding-top: 5px;
+    max-width: 100%;
+  }
+
+  #right-side-about-s2 p.serv_Para {
+    padding: 0;
+    margin: 0;
+    text-align: left;
+  }
+
+  h1.serv_Header {
+    font-size: 32px !important;
+  }
+}
+
+/* NextPage: Responsive | Services Page */
+
+@media (max-width: 1256px) {
+  :root {
+    --hgPurple: rgba(173, 90, 204, 1);
+  }
+
+  .serv_Header {
+    padding: 0;
+    margin: 0;
+    font-family: "Clash Display";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 72px;
+    color: #ffffff;
+
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  #services-page-section-1 .serv_Title {
+    padding: 0;
+    margin: 0;
+    font-family: "Clash Display";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+    /* identical to box height, or 117% */
+
+    /* white */
+    color: #ffffff;
+
+    margin-top: 76px;
+  }
+
+  .serv_PurpleTitle {
+    padding: 0;
+    margin: 0;
+    font-family: "Clash Display";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29.52px;
+
+    /* amethyst-primary */
+    color: var(--hgPurple);
+  }
+
+  #services-page-section-1 .serv_Para {
+    padding: 0;
+    margin: 0;
+    font-family: "General Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    min-width: 100%;
+    color: #ffffff;
+  }
+
+  .serv_ListText {
+    padding: 0;
+    margin: 0;
+    font-family: "General Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21.6px;
+    /* identical to box height */
+
+    color: #ffffff;
+  }
+
+  .head_space_serv {
+    padding-top: 58px;
+  }
+
+  .husig_dsk_sec_pad_1 {
+    padding-bottom: 0;
+    margin: 0;
+    padding-left: calc((120 / 1920) * 100vw);
+    padding-right: calc((120 / 1920) * 100vw);
+  }
+
+  .serv_Line_div {
+    box-sizing: border-box;
+    border-bottom: 1px solid var(--hgPurple);
+    width: 100%;
+    margin-top: 11.5px;
+    margin-bottom: 21px;
+  }
+
+  .text_div_serv_page {
+    max-width: 100%;
+  }
+
+  .text_div_serv_page .serv_Para {
+    padding: 0;
+    margin: 0;
+    font-family: "General Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    min-width: 100%;
+    color: #ffffff;
+  }
+
+  .serv_Hero_div {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 0;
+    justify-content: space-between;
+    padding-bottom: 34px;
+    gap: 32px;
+  }
+
+  .serv_Hero_div img {
+    width: 100%;
+    max-width: 700px;
+    height: auto;
+    object-fit: contain;
+  }
+
+  /*  */
+
+  .analytics_grid {
+    display: flex;
+    flex-direction: column;
+    row-gap: 32px;
+    column-gap: 24px;
+    width: 100%;
+  }
+
+  .box-1 {
+    background-color: hsla(267, 50%, 34%, 0.1);
+    border: 2px solid hsla(267, 53%, 48%, 1);
+    padding:  40px 24px;
+    border-radius: 24px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+  }
+
+  .box-1 h3 {
+    margin-top: 0;
+  }
+
+  .box-1 ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .box-1 ul li {
+    display: flex;
+    margin: 32px 0px;
+    position: relative;
+    gap: 16px;
+  }
+
+  #services-page-section-1 img.list_icon_image,
+  #services-page-section-2 img.list_icon_image {
+    max-width: 16px;
+    min-width: 16px;
+  }
+
+  /* ids */
+}
+
+/* nexpage : Platforms */
+
+@media (max-width: 1256px) {
+
+  section#husig-harmony {
+    margin-bottom: 134px;
+  }
+
+  h1#plat_Header_1 {
+    margin-top: 58px;
+    font-family: "Clash Display";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+    /* identical to box height, or 112% */
+
+    /* white */
+    color: #ffffff;
+  }
+
+  div.plat_div_top {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+  }
+
+  section.plat_desk_section {
+    margin-left: calc((24 / 393) * 100vw);
+    margin-right: calc((24 / 393) * 100vw);
+    margin-top: 60px;
+  }
+
+  section.plat_desk_section .serv_Title {
+    padding: 0;
+    margin: 0;
+  }
+
+  section.plat_desk_section h2.top_section_h2 {
+    padding: 0;
+    margin: 0;
+
+    font-family: "General Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+
+    color: #ffffff;
+    max-width: 100%;
+    margin-top: 8px;
+  }
+
+  /* bottom section */
+
+  div.plat_div_bottom {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    margin-top: 56px;
+  }
+
+  div.plat_left_div {
+    max-width: 100%;
+  }
+
+  div.plat_left_div img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    max-width: 691px;
+  }
+
+  div.plat_right_div {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  /* Css for accordion goes here  */
+
+  /* CSS for unique accordion goes here */
+
+  #faq-accordion-2 {
+    margin: 0;
+    width: 100%;
+    padding: 0;
+    padding-left: 16.1458333333vw;
+    padding-right: 18.5416666667vw;
+    box-sizing: border-box;
+  }
+  #faq-accordion-2 .husig_h2_tag {
+    margin: 0;
+    width: unset;
+  }
+  #faq-accordion-2 .faq-cat {
+    box-sizing: border-box;
+    max-width: 279.19px;
+    font-family: "General Sans";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 14px 30.1832px;
+    gap: 6.04px;
+    /* amethyst-primary */
+    background: #ad5acc;
+    border-radius: 12px;
+    /* telekhet-dark */
+    color: #10071c;
+  }
+
+  .unique-accordion {
+    margin-top: 45px;
+    width: 100%;
+    /* max-width: 600px; */
+    border-bottom: 1px solid rgb(173, 90, 204);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 64px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+
+  .accordion-item-2 {
+    border: 2px solid hsla(267, 53%, 48%, 1);
+    box-sizing: border-box;
+    border-radius: 24px;
+    height: max-content;
+  }
+
+  .unique-accordion-header {
+    width: 100%;
+    padding: 40px 40px 32px 40px;
+    font-size: 16px;
+    text-align: left;
+    background: hsla(267, 50%, 34%, 0.1);
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: white;
+    font-family: "General Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21.6px;
+    /* identical to box height, or 29px */
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    /* white */
+    color: #ffffff;
+    height: max-content;
+    gap: 16px;
+  }
+  .unique-accordion-header p {
+    margin: 0;
+    padding: 0;
+  }
+
+  .unique-accordion-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out, padding 0.3s ease-out;
+    background: rgba(81, 43, 129, 0.1);
+    font-family: "General Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21.6px;
+    display: flex;
+    align-items: center;
+    color: white;
+  }
+
+  .unique-accordion-content p {
+    margin: 0;
+  }
+
+  .unique-open-close {
+    transition: transform 0.3s;
+    display: inline-block;
+  }
+
+  .rotate-icon {
+    transform: rotate(-45deg);
+  }
+
+  #serv-pag-list-icon {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-width: 16px;
+    max-width: 16px;
+    min-height: 16px;
+    max-height: 16px;
+  }
+
+  div.accordion-123 {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  /* accordion css ends */
+}
