@@ -156,3 +156,113 @@
 
 
 /* ids */
+/* section 4 code */
+#home-sec-4 {
+  margin: 0px auto;
+  margin-top: 103px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  /* width: 72.65vw; */
+  padding: 0px 13.64vw;
+  padding-bottom: 118px;
+}
+#home-sec-4 * {
+  position: relative;
+  z-index: 25;
+}
+#home-sec-4 h1 {
+  text-align: center;
+}
+#home-sec-4 article.homepage_article {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  gap: 209px;
+}
+#home-sec-4 #project-based {
+  width: 35.67vw;
+  object-fit: contain;
+}
+#home-sec-4 .sec_4_texts {
+  width: 25.42vw;
+}
+#home-sec-4 .sec_4_texts ul li {
+  font-family: "General Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  color: #ffffff;
+}
+#home-sec-4 .sec_4_article {
+  width: 100%;
+  font-family: "General Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 27px;
+  color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  gap: 4.1666666667vw;
+}
+#home-sec-4 .husig_midtitle {
+  margin: 0;
+  padding: 0;
+  font-family: "Clash Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 39px;
+  /* white */
+  color: #ffffff;
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+#home-sec-4 .sec-4.icon-list.husig_h3_tag {
+  margin: unset;
+  padding: unset;
+  display: flex;
+  flex-direction: column;
+  margin-top: 48px;
+}
+#home-sec-4 .sec-4.icon-list.husig_h3_tag li {
+  display: flex;
+  align-items: flex-end;
+  align-content: center;
+  list-style-type: none;
+}
+#home-sec-4 .sec-4.icon-list.husig_h3_tag .list_icon_image {
+  margin-right: 12px;
+}
+#home-sec-4 .sec-4.icon-list.husig_h3_tag .sec_4_para {
+  margin: 0;
+  margin-top: 12px;
+  padding-left: 35px;
+  font-family: "General Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 27px;
+  color: #ffffff;
+}
+#home-sec-4 li.second_li {
+  margin-top: 40px;
+}
+#home-sec-4 li.third_li {
+  margin-top: 40px;
+}
+#home-sec-4 #h1-a-1 {
+  margin: unset;
+  margin-bottom: 101px;
+}
+#home-sec-4 #staff-aug-div {
+  flex-direction: row-reverse;
+}
+
+/* section 4 ends  */
