@@ -81,9 +81,10 @@ header ul {
 	margin: 0;
 }
 
-#contact-us {
-	padding-top: 60px; 
-  }
+:target {
+    scroll-margin-top: 150px;
+}
+
 
 footer {
 	margin-top: 271px;
