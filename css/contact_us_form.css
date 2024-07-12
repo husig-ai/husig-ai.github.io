@@ -115,7 +115,7 @@
 /* Mobile styles */
 @media (max-width: 1256px) {
   #contact-us {
-    width: calc((345/393)*100vw);
+    width: calc((345 / 393) * 100vw);
     flex-direction: column;
     max-width: 768px;
   }

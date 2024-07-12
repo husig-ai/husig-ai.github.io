@@ -71,7 +71,7 @@
   align-self: center;
 }
 
-.Shimmy_sza_container{
+.Shimmy_sza_container {
   position: unset !important;
 }
 /* background shimmy */
@@ -183,14 +183,12 @@ section#my-mobile-menu {
 }
 
 @media (max-width: 1256px) {
-
-  #myLinks-mm button.husig_cta{
+  #myLinks-mm button.husig_cta {
     height: 59px;
     margin-top: 48px;
     font-size: 20px;
     line-height: 27px;
   }
-
 
   * {
     overflow-x: hidden !important;
@@ -293,7 +291,6 @@ section#my-mobile-menu {
 }
 
 @media (max-width: 1256px) {
-
   button.myDropdonw_items {
     all: unset;
   }

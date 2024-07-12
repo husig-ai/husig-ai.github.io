@@ -30,14 +30,17 @@ section#home-testimonials-section #testimonials-slider {
   min-width: max-content;
   cursor: grab;
 }
-section#home-testimonials-section #testimonials-slider .testimonial_card::before {
+section#home-testimonials-section
+  #testimonials-slider
+  .testimonial_card::before {
   content: "";
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  background: url("../../images/homepage/testimonials/card_background_final.webp") no-repeat center center;
+  background: url("../../images/homepage/testimonials/card_background_final.webp")
+    no-repeat center center;
   background-size: cover;
   background-blend-mode: normal;
   opacity: 0.09; /* Adjust the opacity here */
@@ -107,7 +110,8 @@ section#home-testimonials-section #testimonials-slider .title_text {
   align-content: center;
   gap: 5px;
 }
-section#home-testimonials-section #testimonials-slider .testi_row, section#home-testimonials-section #testimonials-slider #testi-top-row {
+section#home-testimonials-section #testimonials-slider .testi_row,
+section#home-testimonials-section #testimonials-slider #testi-top-row {
   display: flex;
   flex-direction: row;
   gap: 24px;

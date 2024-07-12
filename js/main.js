@@ -142,4 +142,15 @@
       scrollContainer.scrollLeft = scrollLeft - walk;
     });
   });
+  document.addEventListener("DOMContentLoaded", function() {
+    const contactUsButton = document.querySelector("#myLinks-mm #book-a-call");
+    if (contactUsButton) {
+      contactUsButton.addEventListener("click", function() {
+        const myLinks = document.getElementById("myLinks-mm");
+        if (myLinks.style.display === "block") {
+          myLinks.style.display = "none";
+        }
+      });
+    }
+  });
 })();

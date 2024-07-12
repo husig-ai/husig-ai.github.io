@@ -126,8 +126,6 @@ div.plat_right_div {
   height: max-content;
 }
 
-
-
 .unique-accordion-header {
   width: 100%;
   padding: 40px 40px 32px 40px;
@@ -155,7 +153,6 @@ div.plat_right_div {
 .unique-accordion-header p {
   margin: 0;
   padding: 0;
-
 }
 
 .unique-accordion-content {
@@ -191,7 +188,6 @@ div.plat_right_div {
   min-width: 24px;
   max-width: 24px;
   height: auto;
-  
 }
 
 div.accordion-123 {
