@@ -35,6 +35,8 @@
 #home-sec-5 .husig_h3_tag {
   margin: unset;
   padding: unset;
+  font-size: 18px;
+  font-weight: 400;
   margin-top: 8px;
 }
 #home-sec-5 #sec5-content-grid {

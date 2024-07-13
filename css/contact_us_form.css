@@ -7,7 +7,7 @@
   height: 100%;
   position: absolute;
   background-repeat: no-repeat;
-  pointer-events: none;
+  pointer-events: none; /* Keep this only if the background image should not be interacted with */
   background-position: 0px 0px;
   z-index: 0;
   opacity: 0.8;
@@ -22,13 +22,14 @@
   background-repeat: no-repeat;
   background-position: 0px 0px;
   background-size: cover;
-  pointer-events: none;
+  /* pointer-events: none; Remove this to make the section interactive */
   border-radius: 16px;
   border: 1px solid rgb(173, 90, 204);
   margin: auto;
   display: flex;
   flex-direction: row;
 }
+
 
 #contact-us .husig_h2_tag {
   padding: 0;
