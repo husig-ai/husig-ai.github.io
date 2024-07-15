@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Husig.ai</title>
-    <link>https://example.org/tags/</link>
+    <link>https://husig.ai/tags/</link>
     <description>Recent content in Tags on Husig.ai</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://husig.ai/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Classification</title>
-      <link>https://example.org/tags/classification/</link>
+      <link>https://husig.ai/tags/classification/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/classification/</guid>
+      <guid>https://husig.ai/tags/classification/</guid>
       <description></description>
     </item>
     <item>
       <title>Nlp</title>
-      <link>https://example.org/tags/nlp/</link>
+      <link>https://husig.ai/tags/nlp/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/nlp/</guid>
+      <guid>https://husig.ai/tags/nlp/</guid>
       <description></description>
     </item>
     <item>
       <title>Zero-Shot</title>
-      <link>https://example.org/tags/zero-shot/</link>
+      <link>https://husig.ai/tags/zero-shot/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/zero-shot/</guid>
+      <guid>https://husig.ai/tags/zero-shot/</guid>
       <description></description>
     </item>
     <item>
       <title>Calculus</title>
-      <link>https://example.org/tags/calculus/</link>
+      <link>https://husig.ai/tags/calculus/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/calculus/</guid>
+      <guid>https://husig.ai/tags/calculus/</guid>
       <description></description>
     </item>
     <item>
       <title>Gradient Descent</title>
-      <link>https://example.org/tags/gradient-descent/</link>
+      <link>https://husig.ai/tags/gradient-descent/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/gradient-descent/</guid>
+      <guid>https://husig.ai/tags/gradient-descent/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>https://example.org/tags/machine-learning/</link>
+      <link>https://husig.ai/tags/machine-learning/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/machine-learning/</guid>
+      <guid>https://husig.ai/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Optimization</title>
-      <link>https://example.org/tags/optimization/</link>
+      <link>https://husig.ai/tags/optimization/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/optimization/</guid>
+      <guid>https://husig.ai/tags/optimization/</guid>
       <description></description>
     </item>
     <item>
       <title>Cart</title>
-      <link>https://example.org/tags/cart/</link>
+      <link>https://husig.ai/tags/cart/</link>
       <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/cart/</guid>
+      <guid>https://husig.ai/tags/cart/</guid>
       <description></description>
     </item>
     <item>
       <title>Ml</title>
-      <link>https://example.org/tags/ml/</link>
+      <link>https://husig.ai/tags/ml/</link>
       <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/ml/</guid>
+      <guid>https://husig.ai/tags/ml/</guid>
       <description></description>
     </item>
     <item>
       <title>Paper</title>
-      <link>https://example.org/tags/paper/</link>
+      <link>https://husig.ai/tags/paper/</link>
       <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/paper/</guid>
+      <guid>https://husig.ai/tags/paper/</guid>
       <description></description>
     </item>
     <item>
       <title>Roc</title>
-      <link>https://example.org/tags/roc/</link>
+      <link>https://husig.ai/tags/roc/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/roc/</guid>
+      <guid>https://husig.ai/tags/roc/</guid>
       <description></description>
     </item>
     <item>
       <title>Smote</title>
-      <link>https://example.org/tags/smote/</link>
+      <link>https://husig.ai/tags/smote/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/smote/</guid>
+      <guid>https://husig.ai/tags/smote/</guid>
       <description></description>
     </item>
     <item>
       <title>Transformers</title>
-      <link>https://example.org/tags/transformers/</link>
+      <link>https://husig.ai/tags/transformers/</link>
       <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/transformers/</guid>
+      <guid>https://husig.ai/tags/transformers/</guid>
       <description></description>
     </item>
     <item>
       <title>Explainability</title>
-      <link>https://example.org/tags/explainability/</link>
+      <link>https://husig.ai/tags/explainability/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/explainability/</guid>
+      <guid>https://husig.ai/tags/explainability/</guid>
       <description></description>
     </item>
     <item>
       <title>Game-Theory</title>
-      <link>https://example.org/tags/game-theory/</link>
+      <link>https://husig.ai/tags/game-theory/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/game-theory/</guid>
+      <guid>https://husig.ai/tags/game-theory/</guid>
       <description></description>
     </item>
     <item>
       <title>Shap</title>
-      <link>https://example.org/tags/shap/</link>
+      <link>https://husig.ai/tags/shap/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/shap/</guid>
+      <guid>https://husig.ai/tags/shap/</guid>
       <description></description>
     </item>
   </channel>

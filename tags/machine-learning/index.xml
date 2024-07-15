@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning on Husig.ai</title>
-    <link>https://example.org/tags/machine-learning/</link>
+    <link>https://husig.ai/tags/machine-learning/</link>
     <description>Recent content in Machine Learning on Husig.ai</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://husig.ai/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Paper Exploration] Adam: A Method for Stochastic Optimization</title>
-      <link>https://example.org/posts/adam/</link>
+      <link>https://husig.ai/posts/adam/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/adam/</guid>
+      <guid>https://husig.ai/posts/adam/</guid>
       <description>[Paper Exploration] Adam: A Method for Stochastic Optimization Author: Diederik P. Kingma, Jimmy Ba&#xA;Published on 2014&#xA;Abstract We introduce Adam, an algorithm for first-order gradient-based optimization of stochastic objective functions, based on adaptive estimates of lower-order moments. The method is straightforward to implement, is computationally efficient, has little memory requirements, is invariant to diagonal rescaling of the gradients, and is well suited for problems that are large in terms of data and/or parameters.</description>
     </item>
   </channel>
