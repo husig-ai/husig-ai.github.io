@@ -15,5 +15,12 @@
       <guid>https://husig.ai/careers/</guid>
       <description>Business Development Officer (1) Job Title: Business Development Officer&#xA;Location: Kathmandu, Nepal (Remote)&#xA;Remuneration Type: Base + Commission on ticket&#xA;Job Description: We are looking for a proactive and results-driven Business Development Officer to join our team. This role is ideal for MBA students or recent graduates who are passionate about driving business growth and expanding market presence. As a Business Development Officer at HuSig, you will empower organizations to realize value from data at scale.</description>
     </item>
+    <item>
+      <title>[Paper Exploration] Adam: A Method for Stochastic Optimization</title>
+      <link>https://husig.ai/posts/adam/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/posts/adam/</guid>
+      <description>[Paper Exploration] Adam: A Method for Stochastic Optimization Author: Diederik P. Kingma, Jimmy Ba&#xA;Published on 2014&#xA;Abstract We introduce Adam, an algorithm for first-order gradient-based optimization of stochastic objective functions, based on adaptive estimates of lower-order moments. The method is straightforward to implement, is computationally efficient, has little memory requirements, is invariant to diagonal rescaling of the gradients, and is well suited for problems that are large in terms of data and/or parameters.</description>
+    </item>
   </channel>
 </rss>
