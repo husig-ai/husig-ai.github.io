@@ -6,34 +6,174 @@
     <description>Recent content in Tags on Husig.ai</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://husig.ai/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Calculus</title>
       <link>https://husig.ai/tags/calculus/</link>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://husig.ai/tags/calculus/</guid>
       <description></description>
     </item>
     <item>
       <title>Gradient Descent</title>
       <link>https://husig.ai/tags/gradient-descent/</link>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://husig.ai/tags/gradient-descent/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
       <link>https://husig.ai/tags/machine-learning/</link>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://husig.ai/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Optimization</title>
       <link>https://husig.ai/tags/optimization/</link>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://husig.ai/tags/optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deep Learning</title>
+      <link>https://husig.ai/tags/deep-learning/</link>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resnet</title>
+      <link>https://husig.ai/tags/resnet/</link>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/resnet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sota</title>
+      <link>https://husig.ai/tags/sota/</link>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/sota/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computer Vision</title>
+      <link>https://husig.ai/tags/computer-vision/</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Few Shot</title>
+      <link>https://husig.ai/tags/few-shot/</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/few-shot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Image Segmentation</title>
+      <link>https://husig.ai/tags/image-segmentation/</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/image-segmentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meta Ai</title>
+      <link>https://husig.ai/tags/meta-ai/</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/meta-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sam</title>
+      <link>https://husig.ai/tags/sam/</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/sam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zero-Shot</title>
+      <link>https://husig.ai/tags/zero-shot/</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/zero-shot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Classification</title>
+      <link>https://husig.ai/tags/classification/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/classification/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nlp</title>
+      <link>https://husig.ai/tags/nlp/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/nlp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cart</title>
+      <link>https://husig.ai/tags/cart/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/cart/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ml</title>
+      <link>https://husig.ai/tags/ml/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/ml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paper</title>
+      <link>https://husig.ai/tags/paper/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/paper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Roc</title>
+      <link>https://husig.ai/tags/roc/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/roc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Smote</title>
+      <link>https://husig.ai/tags/smote/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/smote/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transformers</title>
+      <link>https://husig.ai/tags/transformers/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/transformers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Explainability</title>
+      <link>https://husig.ai/tags/explainability/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/explainability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game-Theory</title>
+      <link>https://husig.ai/tags/game-theory/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/game-theory/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shap</title>
+      <link>https://husig.ai/tags/shap/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/shap/</guid>
       <description></description>
     </item>
   </channel>

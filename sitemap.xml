@@ -2,29 +2,131 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://husig.ai/posts/adam/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/calculus/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/gradient-descent/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/machine-learning/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/optimization/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/posts/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/posts/resnets/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/categories/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/deep-learning/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/categories/paper-exploration/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/resnet/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/sota/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/posts/segment_anything/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/computer-vision/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/categories/computer-vision/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/categories/deep-learning/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/few-shot/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/image-segmentation/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/meta-ai/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/categories/meta-ai/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/categories/model-analysis/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/categories/research/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/sam/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/zero-shot/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://husig.ai/careers/</loc>
     <lastmod>2024-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://husig.ai/posts/adam/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+    <loc>https://husig.ai/posts/zero-shot-classification/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://husig.ai/tags/calculus/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+    <loc>https://husig.ai/tags/classification/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://husig.ai/tags/gradient-descent/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+    <loc>https://husig.ai/tags/nlp/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://husig.ai/tags/machine-learning/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+    <loc>https://husig.ai/posts/statistical_modelling_two_cultures/</loc>
+    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://husig.ai/tags/optimization/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+    <loc>https://husig.ai/tags/cart/</loc>
+    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://husig.ai/posts/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+    <loc>https://husig.ai/tags/ml/</loc>
+    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://husig.ai/tags/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+    <loc>https://husig.ai/tags/paper/</loc>
+    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/posts/smote_paper_exploration/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/roc/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/smote/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/posts/transformers_for_image_paper_exploration/</loc>
+    <lastmod>2023-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/transformers/</loc>
+    <lastmod>2023-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/posts/shap_exploration/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/explainability/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/game-theory/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/shap/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://husig.ai/about/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
@@ -45,7 +147,5 @@
     <loc>https://husig.ai/husig_incog/</loc>
   </url><url>
     <loc>https://husig.ai/operations_research/</loc>
-  </url><url>
-    <loc>https://husig.ai/categories/</loc>
   </url>
 </urlset>
