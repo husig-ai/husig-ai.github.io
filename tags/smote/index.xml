@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Smote on Husig.ai</title>
-    <link>https://husig.ai/tags/smote/</link>
+    <link>http://localhost:1313/tags/smote/</link>
     <description>Recent content in Smote on Husig.ai</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://husig.ai/tags/smote/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/smote/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Paper Exploration] SMOTE: Synthetic Minority Over-sampling Technique</title>
-      <link>https://husig.ai/posts/smote_paper_exploration/</link>
+      <link>http://localhost:1313/posts/smote_paper_exploration/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/posts/smote_paper_exploration/</guid>
+      <guid>http://localhost:1313/posts/smote_paper_exploration/</guid>
       <description>[Paper Exploration] SMOTE: Synthetic Minority Over-sampling Technique&amp;quot; Author: Nitesh V. Chawla, Kevin W. Bowyer, Lawrence O. Hall, W. Philip Kegelmeyer&#xA;Published on 9 Jun 2011&#xA;Abstract An approach to the construction of classifiers from imbalanced datasets is described. A dataset is imbalanced if the classification categories are not approximately equally represented. Often real-world data sets are predominately composed of “normal” examples with only a small percentage of “abnormal” or “interesting” examples.</description>
     </item>
   </channel>

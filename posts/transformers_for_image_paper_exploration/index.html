@@ -373,7 +373,6 @@
 <blockquote>
 <p>Published as a conference paper at ICLR 2021</p>
 </blockquote>
-<!-- raw HTML omitted -->
 <h1 id="abstract">Abstract</h1>
 <blockquote>
 <p>While the <strong>Transformer architecture</strong> has become the de-facto standard for natural language processing tasks, its applications to computer vision remain limited. In vision, <strong>attention</strong> is either applied in conjunction with <strong>convolutional networks</strong>, or used to replace certain components of convolutional networks while keeping their overall structure in place. We show that this reliance on CNNs is not necessary and a pure transformer applied directly to sequences of image <strong>patches</strong> can perform very well on image classification tasks. When pre-trained on large amounts of data and transferred to multiple mid-sized or small image recognition benchmarks (<strong>ImageNet</strong>, CIFAR-100, VTAB, etc.), <strong>Vision Transformer (ViT)</strong> attains excellent results compared to <strong>state-of-the-art</strong> convolutional networks while requiring substantially fewer computational resources to train.</p>
@@ -436,7 +435,7 @@ Files already downloaded and verified
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>imshow(torchvision<span style="color:#f92672">.</span>utils<span style="color:#f92672">.</span>make_grid(images))
 </span></span><span style="display:flex;"><span>print(<span style="color:#e6db74">&#39; &#39;</span><span style="color:#f92672">.</span>join(<span style="color:#e6db74">&#39;</span><span style="color:#e6db74">%5s</span><span style="color:#e6db74">&#39;</span> <span style="color:#f92672">%</span> classes[labels[j]] <span style="color:#66d9ef">for</span> j <span style="color:#f92672">in</span> range(<span style="color:#ae81ff">4</span>)))
-</span></span></code></pre></div><p><img src="/img/output_5_0.png" alt="png"></p>
+</span></span></code></pre></div><p><img src="https://ayushsubedi.github.io/img/output_5_0.png" alt="png"></p>
 <pre><code>Airplane Horse  Frog  Deer
 </code></pre>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">class</span> <span style="color:#a6e22e">AlexNet</span>(nn<span style="color:#f92672">.</span>Module):
