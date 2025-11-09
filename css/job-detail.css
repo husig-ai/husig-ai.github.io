@@ -164,7 +164,7 @@
 /* Job Content Section */
 .job-content-section {
   padding: 80px 20px;
-  background: white;
+  background: transparent;
 }
 
 .job-content-grid {
@@ -183,23 +183,23 @@
 .job-content-body {
   font-size: 1.05rem;
   line-height: 1.8;
-  color: #2c3e50;
+  color: #ffffff; /* Changed from #2c3e50 */
 }
 
 .job-content-body h2 {
   font-size: 2rem;
   font-weight: 600;
-  color: #2c3e50;
+  color: #ffffff; /* Changed from #2c3e50 */
   margin-top: 48px;
   margin-bottom: 24px;
   padding-bottom: 16px;
-  border-bottom: 2px solid #e9ecef;
+  border-bottom: 2px solid rgba(173, 90, 204, 0.5);
 }
 
 .job-content-body h3 {
   font-size: 1.5rem;
   font-weight: 600;
-  color: #2c3e50;
+  color: #ffffff; /* Changed from #2c3e50 */
   margin-top: 36px;
   margin-bottom: 16px;
 }
@@ -282,23 +282,21 @@
   top: 100px;
   align-self: flex-start;
 }
-
 .sidebar-card {
-  background: white;
+  background: rgba(81, 43, 129, 0.1);
   border-radius: 12px;
   padding: 32px;
   margin-bottom: 24px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-  border: 2px solid #f0f0f0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  border: 2px solid rgba(173, 90, 204, 0.3);
 }
 
 .sidebar-card h3 {
   font-size: 1.25rem;
   font-weight: 600;
-  color: #2c3e50;
+  color: #ffffff; /* Changed from #2c3e50 */
   margin-bottom: 20px;
 }
-
 /* Apply Card */
 .sidebar-apply {
   background: linear-gradient(135deg, #C062F2, #985EE3);

@@ -853,3 +853,25 @@ code {
   background-color: #512b81;
   color: white;
 }
+
+
+.content-centered {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.main-content-full {
+  max-width: 1024px;
+  width: 100%;
+  padding: 2rem;
+}
+
+.main-content img,
+.main-content-full img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto; /* Centers images and adds vertical spacing */
+  border-radius: 4px; /* Optional: rounded corners */
+}
