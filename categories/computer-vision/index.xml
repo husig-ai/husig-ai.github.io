@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computer Vision on Husig.ai</title>
-    <link>http://localhost:1313/categories/computer-vision/</link>
+    <link>https://husig.ai/categories/computer-vision/</link>
     <description>Recent content in Computer Vision on Husig.ai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://husig.ai/categories/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Paper Exploration] In-Depth Analysis of the Segment Anything Model (SAM)</title>
-      <link>http://localhost:1313/posts/segment_anything/</link>
+      <link>https://husig.ai/posts/segment_anything/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/segment_anything/</guid>
+      <guid>https://husig.ai/posts/segment_anything/</guid>
       <description>Authors: Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick&#xA;Published on 2023&#xA;The Segment Anything Model (SAM) was developed by Meta AI as a foundation model for image segmentation tasks. The goal of SAM is to create a universal model that can efficiently handle various segmentation tasks with minimal prompting.&#xA;Abstract We introduce the Segment Anything (SA) project: a new task, model, and dataset for image segmentation.</description>
     </item>
   </channel>

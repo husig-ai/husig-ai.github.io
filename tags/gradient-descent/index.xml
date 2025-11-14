@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gradient Descent on Husig.ai</title>
-    <link>http://localhost:1313/tags/gradient-descent/</link>
+    <link>https://husig.ai/tags/gradient-descent/</link>
     <description>Recent content in Gradient Descent on Husig.ai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/gradient-descent/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://husig.ai/tags/gradient-descent/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Paper Exploration] Adam: A Method for Stochastic Optimization</title>
-      <link>http://localhost:1313/posts/adam/</link>
+      <link>https://husig.ai/posts/adam/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/adam/</guid>
+      <guid>https://husig.ai/posts/adam/</guid>
       <description>Author: Diederik P. Kingma, Jimmy Ba&#xA;Published on 2014&#xA;Abstract We introduce Adam, an algorithm for first-order gradient-based optimization of stochastic objective functions, based on adaptive estimates of lower-order moments. The method is straightforward to implement, is computationally efficient, has little memory requirements, is invariant to diagonal rescaling of the gradients, and is well suited for problems that are large in terms of data and/or parameters. The method is also appropriate for non-stationary objectives and problems with very noisy and/or sparse gradients.</description>
     </item>
     <item>
       <title>[Paper Exploration] Deep Residual Learning for Image Recognition</title>
-      <link>http://localhost:1313/posts/resnets/</link>
+      <link>https://husig.ai/posts/resnets/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/resnets/</guid>
+      <guid>https://husig.ai/posts/resnets/</guid>
       <description>Author: Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun&#xA;Published on 2015&#xA;Abstract Deeper neural networks are more difficult to train. We present a residual learning framework to ease the training of networks that are substantially deeper than those used previously. We explicitly reformulate the layers as learning residual functions with reference to the layer inputs, instead of learning unreferenced functions. We provide comprehensive empirical evidence showing that these residual networks are easier to optimize, and can gain accuracy from considerably increased depth.</description>
     </item>
   </channel>
