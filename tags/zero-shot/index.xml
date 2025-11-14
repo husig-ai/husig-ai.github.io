@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zero-Shot on Husig.ai</title>
-    <link>https://husig.ai/tags/zero-shot/</link>
+    <link>http://localhost:1313/tags/zero-shot/</link>
     <description>Recent content in Zero-Shot on Husig.ai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://husig.ai/tags/zero-shot/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/zero-shot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Paper Exploration] In-Depth Analysis of the Segment Anything Model (SAM)</title>
-      <link>https://husig.ai/posts/segment_anything/</link>
+      <link>http://localhost:1313/posts/segment_anything/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/posts/segment_anything/</guid>
+      <guid>http://localhost:1313/posts/segment_anything/</guid>
       <description>Authors: Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick&#xA;Published on 2023&#xA;The Segment Anything Model (SAM) was developed by Meta AI as a foundation model for image segmentation tasks. The goal of SAM is to create a universal model that can efficiently handle various segmentation tasks with minimal prompting.&#xA;Abstract We introduce the Segment Anything (SA) project: a new task, model, and dataset for image segmentation.</description>
     </item>
     <item>
       <title>[Paper Exploration] Train Once, Test Anywhere: Zero-Shot Learning for Text Classification</title>
-      <link>https://husig.ai/posts/zero-shot-classification/</link>
+      <link>http://localhost:1313/posts/zero-shot-classification/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/posts/zero-shot-classification/</guid>
+      <guid>http://localhost:1313/posts/zero-shot-classification/</guid>
       <description>Author: Pushpankar Kumar Pushp, Muktabh Mayank Srivastava&#xA;Published on 2017&#xA;Abstract Zero-shot Learners are models capable of predicting unseen classes. In this work, we propose a Zero-shot Learning approach for text categorization. Our method involves training model on a large corpus of sentences to learn the relationship between a sentence and embedding of sentence&amp;rsquo;s tags. Learning such relationship makes the model generalize to unseen sentences, tags, and even new datasets provided they can be put into same embedding space.</description>
     </item>
   </channel>

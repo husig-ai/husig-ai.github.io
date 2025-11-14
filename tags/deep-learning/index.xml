@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning on Husig.ai</title>
-    <link>https://husig.ai/tags/deep-learning/</link>
+    <link>http://localhost:1313/tags/deep-learning/</link>
     <description>Recent content in Deep Learning on Husig.ai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://husig.ai/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Paper Exploration] Deep Residual Learning for Image Recognition</title>
-      <link>https://husig.ai/posts/resnets/</link>
+      <link>http://localhost:1313/posts/resnets/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/posts/resnets/</guid>
+      <guid>http://localhost:1313/posts/resnets/</guid>
       <description>Author: Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun&#xA;Published on 2015&#xA;Abstract Deeper neural networks are more difficult to train. We present a residual learning framework to ease the training of networks that are substantially deeper than those used previously. We explicitly reformulate the layers as learning residual functions with reference to the layer inputs, instead of learning unreferenced functions. We provide comprehensive empirical evidence showing that these residual networks are easier to optimize, and can gain accuracy from considerably increased depth.</description>
     </item>
     <item>
       <title>[Paper Exploration] In-Depth Analysis of the Segment Anything Model (SAM)</title>
-      <link>https://husig.ai/posts/segment_anything/</link>
+      <link>http://localhost:1313/posts/segment_anything/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/posts/segment_anything/</guid>
+      <guid>http://localhost:1313/posts/segment_anything/</guid>
       <description>Authors: Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick&#xA;Published on 2023&#xA;The Segment Anything Model (SAM) was developed by Meta AI as a foundation model for image segmentation tasks. The goal of SAM is to create a universal model that can efficiently handle various segmentation tasks with minimal prompting.&#xA;Abstract We introduce the Segment Anything (SA) project: a new task, model, and dataset for image segmentation.</description>
     </item>
   </channel>

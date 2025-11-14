@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Husig.ai</title>
-    <link>https://husig.ai/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Husig.ai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://husig.ai/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Calculus</title>
-      <link>https://husig.ai/tags/calculus/</link>
+      <link>http://localhost:1313/tags/calculus/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/calculus/</guid>
+      <guid>http://localhost:1313/tags/calculus/</guid>
       <description></description>
     </item>
     <item>
       <title>Gradient Descent</title>
-      <link>https://husig.ai/tags/gradient-descent/</link>
+      <link>http://localhost:1313/tags/gradient-descent/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/gradient-descent/</guid>
+      <guid>http://localhost:1313/tags/gradient-descent/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>https://husig.ai/tags/machine-learning/</link>
+      <link>http://localhost:1313/tags/machine-learning/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/machine-learning/</guid>
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Optimization</title>
-      <link>https://husig.ai/tags/optimization/</link>
+      <link>http://localhost:1313/tags/optimization/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/optimization/</guid>
+      <guid>http://localhost:1313/tags/optimization/</guid>
       <description></description>
     </item>
     <item>
       <title>Deep Learning</title>
-      <link>https://husig.ai/tags/deep-learning/</link>
+      <link>http://localhost:1313/tags/deep-learning/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/deep-learning/</guid>
+      <guid>http://localhost:1313/tags/deep-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Resnet</title>
-      <link>https://husig.ai/tags/resnet/</link>
+      <link>http://localhost:1313/tags/resnet/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/resnet/</guid>
+      <guid>http://localhost:1313/tags/resnet/</guid>
       <description></description>
     </item>
     <item>
       <title>Sota</title>
-      <link>https://husig.ai/tags/sota/</link>
+      <link>http://localhost:1313/tags/sota/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/sota/</guid>
+      <guid>http://localhost:1313/tags/sota/</guid>
       <description></description>
     </item>
     <item>
       <title>Computer Vision</title>
-      <link>https://husig.ai/tags/computer-vision/</link>
+      <link>http://localhost:1313/tags/computer-vision/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/computer-vision/</guid>
+      <guid>http://localhost:1313/tags/computer-vision/</guid>
       <description></description>
     </item>
     <item>
       <title>Few Shot</title>
-      <link>https://husig.ai/tags/few-shot/</link>
+      <link>http://localhost:1313/tags/few-shot/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/few-shot/</guid>
+      <guid>http://localhost:1313/tags/few-shot/</guid>
       <description></description>
     </item>
     <item>
       <title>Image Segmentation</title>
-      <link>https://husig.ai/tags/image-segmentation/</link>
+      <link>http://localhost:1313/tags/image-segmentation/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/image-segmentation/</guid>
+      <guid>http://localhost:1313/tags/image-segmentation/</guid>
       <description></description>
     </item>
     <item>
       <title>Meta Ai</title>
-      <link>https://husig.ai/tags/meta-ai/</link>
+      <link>http://localhost:1313/tags/meta-ai/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/meta-ai/</guid>
+      <guid>http://localhost:1313/tags/meta-ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Sam</title>
-      <link>https://husig.ai/tags/sam/</link>
+      <link>http://localhost:1313/tags/sam/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/sam/</guid>
+      <guid>http://localhost:1313/tags/sam/</guid>
       <description></description>
     </item>
     <item>
       <title>Zero-Shot</title>
-      <link>https://husig.ai/tags/zero-shot/</link>
+      <link>http://localhost:1313/tags/zero-shot/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/zero-shot/</guid>
+      <guid>http://localhost:1313/tags/zero-shot/</guid>
       <description></description>
     </item>
     <item>
       <title>Classification</title>
-      <link>https://husig.ai/tags/classification/</link>
+      <link>http://localhost:1313/tags/classification/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/classification/</guid>
+      <guid>http://localhost:1313/tags/classification/</guid>
       <description></description>
     </item>
     <item>
       <title>Nlp</title>
-      <link>https://husig.ai/tags/nlp/</link>
+      <link>http://localhost:1313/tags/nlp/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/nlp/</guid>
+      <guid>http://localhost:1313/tags/nlp/</guid>
       <description></description>
     </item>
     <item>
       <title>Cart</title>
-      <link>https://husig.ai/tags/cart/</link>
+      <link>http://localhost:1313/tags/cart/</link>
       <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/cart/</guid>
+      <guid>http://localhost:1313/tags/cart/</guid>
       <description></description>
     </item>
     <item>
       <title>Ml</title>
-      <link>https://husig.ai/tags/ml/</link>
+      <link>http://localhost:1313/tags/ml/</link>
       <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/ml/</guid>
+      <guid>http://localhost:1313/tags/ml/</guid>
       <description></description>
     </item>
     <item>
       <title>Paper</title>
-      <link>https://husig.ai/tags/paper/</link>
+      <link>http://localhost:1313/tags/paper/</link>
       <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/paper/</guid>
+      <guid>http://localhost:1313/tags/paper/</guid>
       <description></description>
     </item>
     <item>
       <title>Transformers</title>
-      <link>https://husig.ai/tags/transformers/</link>
+      <link>http://localhost:1313/tags/transformers/</link>
       <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/transformers/</guid>
+      <guid>http://localhost:1313/tags/transformers/</guid>
       <description></description>
     </item>
   </channel>
