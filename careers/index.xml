@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Careers on Husig.ai</title>
-    <link>https://husig.ai/careers/</link>
+    <link>http://localhost:1313/careers/</link>
     <description>Recent content in Careers on Husig.ai</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://husig.ai/careers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/careers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Solutions &amp; Partnerships Associate</title>
-      <link>https://husig.ai/careers/ai_partnership_and_growth_associate/</link>
+      <link>http://localhost:1313/careers/ai_partnership_and_growth_associate/</link>
       <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/careers/ai_partnership_and_growth_associate/</guid>
-      <description>We’re looking for a technically curious and people-oriented individual who wants to grow at the intersection of AI, data, and business.&#xA;As an AI Solutions &amp;amp; Partnerships Associate, you’ll help connect HuSig’s advanced AI capabilities with organizations that can benefit from them. This role is ideal for someone with a background in computer science, data, or software who wants to move into solutions consulting, sales engineering, or partnerships — blending technical understanding with client interaction and problem-solving.</description>
+      <guid>http://localhost:1313/careers/ai_partnership_and_growth_associate/</guid>
+      <description>&lt;p&gt;We’re looking for a technically curious and people-oriented individual who wants to grow at the intersection of AI, data, and business.&lt;/p&gt;&#xA;&lt;p&gt;As an AI Solutions &amp;amp; Partnerships Associate, you’ll help connect HuSig’s advanced AI capabilities with organizations that can benefit from them. This role is ideal for someone with a background in computer science, data, or software who wants to move into solutions consulting, sales engineering, or partnerships — blending technical understanding with client interaction and problem-solving.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
