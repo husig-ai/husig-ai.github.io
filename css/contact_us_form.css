@@ -178,3 +178,14 @@
     flex-direction: column;
   }
 }
+
+@media (max-width: 480px) {
+  #contact-us {
+    padding: 0;
+  }
+
+  #contact-us #left-contact, #contact-us #right-contact  {
+    margin: 0 -16px;
+    width: calc(100% + 32px);
+  }
+}
