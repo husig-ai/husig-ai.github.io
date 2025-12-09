@@ -75,7 +75,8 @@ main {
 .section-subtitle {
   text-align: center;
   font-size: 1.1rem;
-  color: #6c757d;
+  /* color: #6c757d; */
+  color: white;
   margin-bottom: 60px;
   max-width: 700px;
   margin-left: auto;
@@ -87,7 +88,8 @@ main {
    ======================================== */
 
 .careers-why-section {
-background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+/* background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); */
+  background-color: rgba(255, 255, 255, 0.1);
   padding: 80px 20px;
 }
 
@@ -99,12 +101,13 @@ background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
 }
 
 .value-card {
-  background: white;
+  /* background: white; */
   padding: 40px 32px;
   border-radius: 16px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
   transition: all 0.3s ease;
   border: 2px solid transparent;
+  border-color: white;
 }
 
 .value-card:hover {
@@ -127,13 +130,15 @@ background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
 .value-card h3 {
   font-size: 1.5rem;
   font-weight: 600;
-  color: #2c3e50;
+  /* color: #2c3e50; */
+  color: white;
   margin-bottom: 12px;
 }
 
 .value-card p {
   font-size: 1rem;
-  color: #6c757d;
+  /* color: #6c757d; */
+  color: white;
   line-height: 1.6;
 }
 
@@ -142,8 +147,12 @@ background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
    ======================================== */
 
 .careers-jobs-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   padding: 80px 20px;
-  background: white;
+  /* background: white; */
+  background-color: rgba(59, 33, 33, 0.185);
 }
 
 .jobs-grid {
@@ -155,7 +164,7 @@ background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
 
 /* Job Card */
 .job-card {
-  background: white;
+  /* background: white; */
   border-radius: 16px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
   transition: all 0.3s ease;
@@ -182,7 +191,8 @@ background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
 .job-title {
   font-size: 1.5rem;
   font-weight: 600;
-  color: #2c3e50;
+  /* color: #2c3e50; */
+  color: white;
   margin: 0;
   flex: 1;
 }
@@ -215,7 +225,7 @@ background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
   align-items: center;
   gap: 8px;
   font-size: 0.9rem;
-  color: #6c757d;
+  /* color: #6c757d; */
 }
 
 .job-location svg,
@@ -225,7 +235,7 @@ background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
 
 .job-excerpt {
   font-size: 1rem;
-  color: #6c757d;
+  /* color: #6c757d; */
   line-height: 1.6;
   margin: 0;
 }
@@ -281,13 +291,14 @@ background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
 
 .no-jobs-content h3 {
   font-size: 1.75rem;
-  color: #2c3e50;
+  /* color: #2c3e50; */
   margin-bottom: 16px;
 }
 
 .no-jobs-content p {
   font-size: 1rem;
-  color: #6c757d;
+  /* color: #6c757d; */
+  color: white;
   line-height: 1.6;
 }
 
