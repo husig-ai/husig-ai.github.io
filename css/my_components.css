@@ -190,9 +190,9 @@ section#my-mobile-menu {
     line-height: 27px;
   }
 
-  * {
+  /* * {
     overflow-x: hidden !important;
-  }
+  } */
 
   section#my-mobile-menu {
     display: block;
@@ -212,7 +212,6 @@ section#my-mobile-menu {
     background-color: hsla(265, 62%, 7%, 1);
     height: 100vh;
     padding: 27px;
-    padding-top: 0;
   }
 
   section#my-mobile-menu .topnav_mm #myLinks-mm h2 {

@@ -13,7 +13,7 @@
     display: block !important;
   }
   body,
-  body * {
+  html {
     overflow-x: hidden !important;
   }
   section.hero_section {
