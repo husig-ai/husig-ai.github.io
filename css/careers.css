@@ -317,7 +317,8 @@ main {
    ======================================== */
 
 .careers-process-section {
-  padding: 200px 20px;
+  padding: 100px 20px 250px 20px;
+  margin-bottom: -272px;
   /* background: linear-gradient(to bottom, #f8f9fa 0%, #ffffff 100%); */
     /* background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); */
 }
@@ -391,7 +392,6 @@ main {
   }
 
   .process-timeline {
-    flex-direction: column;
     gap: 40px;
   }
 
@@ -434,6 +434,11 @@ main {
 
   .job-type {
     align-self: flex-start;
+  }
+
+  .process-timeline {
+    flex-direction: column;
+    align-items: center;
   }
 
   .process-step p {
