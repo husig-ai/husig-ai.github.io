@@ -9,6 +9,13 @@
     <lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://husig.ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>How we built an AI-Powered newsletter that increased ticket sales by 134%</title>
+      <link>https://husig.ai/posts/ai_newsletter/</link>
+      <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/posts/ai_newsletter/</guid>
+      <description>A case study in turning event data into personalized engagement&#xA;A ticketing startup approached us with a familiar problem: they had thousands of users across dozens of cities, but their email marketing felt like shouting into the void. Generic blast emails. Low open rates. Even lower conversions.&#xA;They needed a system that could understand their users—where they lived, what events they attended, what they might want next—and reach them with the right message at the right time.</description>
+    </item>
+    <item>
       <title>What Actually Matters in AI for 2026: A Reality Check for Businesses</title>
       <link>https://husig.ai/posts/ai-business-trends-2026-reality-check/</link>
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
