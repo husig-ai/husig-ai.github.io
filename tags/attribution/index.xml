@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Attribution on Husig.ai</title>
+    <link>https://husig.ai/tags/attribution/</link>
+    <description>Recent content in Attribution on Husig.ai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://husig.ai/tags/attribution/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How we built a referral system without touching a single line of client code</title>
+      <link>https://husig.ai/posts/referral_system/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/posts/referral_system/</guid>
+      <description>How we created a platform-agnostic referral tracking system that increased organizer acquisition by 40%&#xA;A ticketing startup came to us with a growth challenge: they wanted to launch a referral program to acquire new event organizers, but their engineering team was already stretched thin. They couldn&amp;rsquo;t afford to build referral infrastructure into their core platform.&#xA;Most referral solutions—Rewardful, FirstPromoter, PartnerStack—require deep integration with your billing and user systems. That wasn&amp;rsquo;t an option here.</description>
+    </item>
+  </channel>
+</rss>
