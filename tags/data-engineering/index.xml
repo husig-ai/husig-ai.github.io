@@ -6,12 +6,12 @@
     <description>Recent content in Data-Engineering on Husig.ai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://husig.ai/tags/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How we built a synthetic data platform that cut ML development time by 60%</title>
       <link>https://husig.ai/posts/fabri/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://husig.ai/posts/fabri/</guid>
       <description>How synthetic data generation transformed ML development workflows&#xA;Machine learning teams waste weeks waiting for production data access. Legal reviews, anonymization pipelines, compliance approvals—by the time data arrives, project timelines have slipped. Development environments sit empty while engineers context-switch to other work.&#xA;We saw this problem across multiple client engagements and decided to build a solution: Fabri, a synthetic data generation platform that gives ML teams realistic, privacy-safe datasets in minutes instead of weeks.</description>
     </item>

@@ -6,12 +6,12 @@
     <description>Recent content in Compliance on Husig.ai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://husig.ai/tags/compliance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How we built a data obfuscation platform that made production data shareable</title>
       <link>https://husig.ai/posts/incog/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://husig.ai/posts/incog/</guid>
       <description>How intelligent data obfuscation unlocked collaboration without compromising privacy&#xA;Companies sit on valuable production data they can&amp;rsquo;t share—with vendors, partners, or even internal teams. PII regulations, contractual obligations, and security policies lock data behind approval processes that take weeks.&#xA;A healthcare company can&amp;rsquo;t share patient data with an ML vendor. A bank can&amp;rsquo;t give transaction logs to a fraud detection partner. An e-commerce platform can&amp;rsquo;t export customer behavior to their analytics consultants.</description>
     </item>

@@ -6,69 +6,20 @@
     <description>Recent content in Tags on Husig.ai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://husig.ai/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Case-Study</title>
-      <link>https://husig.ai/tags/case-study/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/case-study/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Compliance</title>
-      <link>https://husig.ai/tags/compliance/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/compliance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Data-Engineering</title>
-      <link>https://husig.ai/tags/data-engineering/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/data-engineering/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Data-Privacy</title>
-      <link>https://husig.ai/tags/data-privacy/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/data-privacy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Machine-Learning</title>
-      <link>https://husig.ai/tags/machine-learning/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Obfuscation</title>
-      <link>https://husig.ai/tags/obfuscation/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/obfuscation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pii</title>
-      <link>https://husig.ai/tags/pii/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/pii/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Synthetic-Data</title>
-      <link>https://husig.ai/tags/synthetic-data/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/tags/synthetic-data/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Attribution</title>
       <link>https://husig.ai/tags/attribution/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://husig.ai/tags/attribution/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Case-Study</title>
+      <link>https://husig.ai/tags/case-study/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/case-study/</guid>
       <description></description>
     </item>
     <item>
@@ -121,6 +72,13 @@
       <description></description>
     </item>
     <item>
+      <title>Machine-Learning</title>
+      <link>https://husig.ai/tags/machine-learning/</link>
+      <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Newsletter</title>
       <link>https://husig.ai/tags/newsletter/</link>
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
@@ -132,6 +90,48 @@
       <link>https://husig.ai/tags/small-language-models/</link>
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://husig.ai/tags/small-language-models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data-Engineering</title>
+      <link>https://husig.ai/tags/data-engineering/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/data-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Synthetic-Data</title>
+      <link>https://husig.ai/tags/synthetic-data/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/synthetic-data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Compliance</title>
+      <link>https://husig.ai/tags/compliance/</link>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/compliance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data-Privacy</title>
+      <link>https://husig.ai/tags/data-privacy/</link>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/data-privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Obfuscation</title>
+      <link>https://husig.ai/tags/obfuscation/</link>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/obfuscation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pii</title>
+      <link>https://husig.ai/tags/pii/</link>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/pii/</guid>
       <description></description>
     </item>
   </channel>
