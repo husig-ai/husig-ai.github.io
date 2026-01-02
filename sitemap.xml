@@ -2,10 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://husig.ai/tags/attribution/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://husig.ai/tags/case-study/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/compliance/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/data-engineering/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/data-privacy/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/posts/incog/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/posts/fabri/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/machine-learning/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/obfuscation/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/pii/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/posts/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/synthetic-data/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/attribution/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://husig.ai/tags/growth/</loc>
@@ -14,13 +47,7 @@
     <loc>https://husig.ai/posts/referral_system/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://husig.ai/posts/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://husig.ai/tags/referral/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://husig.ai/tags/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://husig.ai/tags/agentic-workflows/</loc>
@@ -48,9 +75,6 @@
     <lastmod>2025-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://husig.ai/posts/ai_newsletter/</loc>
-    <lastmod>2025-12-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://husig.ai/tags/machine-learning/</loc>
     <lastmod>2025-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://husig.ai/tags/newsletter/</loc>
