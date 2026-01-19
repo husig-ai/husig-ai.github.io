@@ -43,5 +43,12 @@
       <guid>https://husig.ai/posts/incog/</guid>
       <description>How intelligent data obfuscation unlocked collaboration without compromising privacy&#xA;Companies sit on valuable production data they can&amp;rsquo;t share—with vendors, partners, or even internal teams. PII regulations, contractual obligations, and security policies lock data behind approval processes that take weeks.&#xA;A healthcare company can&amp;rsquo;t share patient data with an ML vendor. A bank can&amp;rsquo;t give transaction logs to a fraud detection partner. An e-commerce platform can&amp;rsquo;t export customer behavior to their analytics consultants.</description>
     </item>
+    <item>
+      <title></title>
+      <link>https://husig.ai/posts/aiconf_blogpost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/posts/aiconf_blogpost/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

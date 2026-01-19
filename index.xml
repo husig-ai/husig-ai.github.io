@@ -30,20 +30,6 @@
       <description>At Husig.ai, we spend our days in the trenches of digital transformation—navigating messy spreadsheets, legacy databases, and the manual processes that keep businesses running. We’re often asked if we’re building the next &amp;ldquo;world-changing&amp;rdquo; super-intelligence.&#xA;Our answer? No. We’re building tools that help you finish your work by 5 PM.&#xA;However, to build for today, we have to keep an eye on where the giants are heading. We recently analyzed the 2026 outlooks from Microsoft and Google Cloud.</description>
     </item>
     <item>
-      <title>Full Stack Engineer [Mid/Senior]</title>
-      <link>https://husig.ai/careers/fullstack_engineer_3_dec_25/</link>
-      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/careers/fullstack_engineer_3_dec_25/</guid>
-      <description>We&amp;rsquo;re looking for an experienced [Mid/Senior] Full Stack Engineer (MERN) to architect and build scalable applications with AI-powered features while leading technical initiatives across our engineering organization.&#xA;As a Full Stack Engineer at HuSig, you&amp;rsquo;ll work on complex systems including event management platforms, AI-powered lead generation tools, and data analytics ecosystems. This role combines hands-on development with technical leadership, mentoring, and strategic decision-making for optimal cloud solutions.&#xA;Key Responsibilities Full-Stack Development &amp;amp; AI Integration (50%) Architect and develop scalable web applications using React.</description>
-    </item>
-    <item>
-      <title>UI/UX Designer</title>
-      <link>https://husig.ai/careers/ui_ux_designer_24_dec_25/</link>
-      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://husig.ai/careers/ui_ux_designer_24_dec_25/</guid>
-      <description>We&amp;rsquo;re seeking a creative and analytical UI/UX Designer to lead our user experience design efforts across multiple AI-powered platforms and digital products, while also supporting visual design needs for marketing and brand initiatives.&#xA;As a UI/UX Designer at HuSig, you&amp;rsquo;ll primarily create intuitive and engaging user experiences for our AI applications, conversational interfaces, and business platforms. You&amp;rsquo;ll also contribute to visual design for marketing campaigns, social media content, and brand materials.</description>
-    </item>
-    <item>
       <title>How we built a synthetic data platform that cut ML development time by 60%</title>
       <link>https://husig.ai/posts/fabri/</link>
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
@@ -56,6 +42,13 @@
       <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://husig.ai/posts/incog/</guid>
       <description>How intelligent data obfuscation unlocked collaboration without compromising privacy&#xA;Companies sit on valuable production data they can&amp;rsquo;t share—with vendors, partners, or even internal teams. PII regulations, contractual obligations, and security policies lock data behind approval processes that take weeks.&#xA;A healthcare company can&amp;rsquo;t share patient data with an ML vendor. A bank can&amp;rsquo;t give transaction logs to a fraud detection partner. An e-commerce platform can&amp;rsquo;t export customer behavior to their analytics consultants.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://husig.ai/posts/aiconf_blogpost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/posts/aiconf_blogpost/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
