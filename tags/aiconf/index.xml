@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AIConf on Husig.ai</title>
+    <link>https://husig.ai/tags/aiconf/</link>
+    <description>Recent content in AIConf on Husig.ai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://husig.ai/tags/aiconf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our Key Takeaways from AIConf 2026</title>
+      <link>https://husig.ai/posts/aiconf-2026-key-takeaways/</link>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/posts/aiconf-2026-key-takeaways/</guid>
+      <description>Starting Our 2026 with AI Conference Last week, the HuSig.ai team had the privilege of attending AI Conf 2026: AI in Action, dubbed as Nepal&amp;rsquo;s first major AI conference, held on January 10 and 11, 2026, organized by Web Weekend Kathmandu (wwktm). The event brought together artificial intelligence practitioners, global researchers, and business leaders with engineers, designers, and AI builders from Nepal to share practical insights on building, deploying, securing, and evaluating AI in real products and systems.</description>
+    </item>
+  </channel>
+</rss>
