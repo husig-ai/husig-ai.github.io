@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lidar on Husig.ai</title>
+    <link>https://husig.ai/tags/lidar/</link>
+    <description>Recent content in Lidar on Husig.ai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://husig.ai/tags/lidar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Annotation, Drift, and the Hidden Geometry of AV LiDAR</title>
+      <link>https://husig.ai/posts/avlidar/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/posts/avlidar/</guid>
+      <description>Everyone talks about the models. PointPillars, CenterPoint, TransFusion, pick your architecture, throw a leaderboard number on it, ship a blog post. But if you&amp;rsquo;ve actually operated AV LiDAR pipelines in production, you know the model is maybe 20% of the problem.&#xA;The other 80%? Annotation quality assurance, ground truth validation, orientation math that breaks at edge cases, model drift that nobody notices until a safety team flags it six weeks later, and the human-in-the-loop workflows that keep the whole thing from quietly degrading.</description>
+    </item>
+  </channel>
+</rss>

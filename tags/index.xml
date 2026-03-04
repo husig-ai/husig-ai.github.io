@@ -6,8 +6,64 @@
     <description>Recent content in Tags on Husig.ai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://husig.ai/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3d-Object-Detection</title>
+      <link>https://husig.ai/tags/3d-object-detection/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/3d-object-detection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Annotation-Qa</title>
+      <link>https://husig.ai/tags/annotation-qa/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/annotation-qa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Autonomous-Vehicles</title>
+      <link>https://husig.ai/tags/autonomous-vehicles/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/autonomous-vehicles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Human-in-the-Loop</title>
+      <link>https://husig.ai/tags/human-in-the-loop/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/human-in-the-loop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lidar</title>
+      <link>https://husig.ai/tags/lidar/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/lidar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mlops</title>
+      <link>https://husig.ai/tags/mlops/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/mlops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Model-Drift</title>
+      <link>https://husig.ai/tags/model-drift/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/model-drift/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Perception</title>
+      <link>https://husig.ai/tags/perception/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://husig.ai/tags/perception/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Agentic Workflows</title>
       <link>https://husig.ai/tags/agentic-workflows/</link>
