@@ -51,7 +51,7 @@
   property="og:description"
   content="From point clouds, to 3D bounding boxes, to IoU geometry, to ground plane estimation, to orientation encoding, to annotation QA, to model drift monitoring, to human-in-the-loop compliance pipelines."
 />
-<meta property="og:image" content="https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2019/01/Wired1.jpg" />
+<meta property="og:image" content="https://husig.ai/images/blog/2_lidar.gif" />
 <meta property="og:url" content="https://husig.ai/posts/avlidar/" />
 <meta property="og:type" content="article" />
 <meta property="og:locale" content="en_US" />
@@ -89,7 +89,7 @@
   name="twitter:description"
   content="From point clouds, to 3D bounding boxes, to IoU geometry, to ground plane estimation, to orientation encoding, to annotation QA, to model drift monitoring, to human-in-the-loop compliance pipelines."
 />
-<meta name="twitter:image" content="https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2019/01/Wired1.jpg" />
+<meta name="twitter:image" content="https://husig.ai/images/blog/2_lidar.gif" />
 <meta name="twitter:site" content="@husig" />
 <meta name="twitter:creator" content="@husig" />
 
@@ -399,13 +399,13 @@
         <p>Everyone talks about the models. PointPillars, CenterPoint, TransFusion, pick your architecture, throw a leaderboard number on it, ship a blog post. But if you&rsquo;ve actually operated AV LiDAR pipelines in production, you know the model is maybe 20% of the problem.</p>
 <p>The other 80%? Annotation quality assurance, ground truth validation, orientation math that breaks at edge cases, model drift that nobody notices until a safety team flags it six weeks later, and the human-in-the-loop workflows that keep the whole thing from quietly degrading.</p>
 <p>This is what we do at HuSig. Not the flashy part, the part that determines whether your perception stack actually works when it matters.</p>
-<p><img src="https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2019/01/Wired1.jpg" alt=""></p>
+<p><img src="../../images/blog/1_lidar.gif" alt=""></p>
 <h2 id="the-annotation-problem-nobody-wants-to-talk-about">The Annotation Problem Nobody Wants to Talk About</h2>
 <p>LiDAR annotation looks simple on the surface: draw 3D bounding boxes around objects in a point cloud. In practice, it&rsquo;s a nightmare of ambiguity.</p>
 <p>Consider a parked SUV partially occluded by a delivery van. Your annotator sees maybe 40% of the point cloud surface. They need to estimate the full extent of the vehicle, length, width, height, from a sparse, one-sided slice of reflected laser returns. They need to nail the orientation (yaw) to within a few degrees, because even small angular errors cause 3D Intersection over Union (IoU) to collapse. A 5-degree yaw deviation on a 4.5-meter sedan can drop your 3D IoU from 0.85 to below 0.6, which most benchmarks would classify as a missed detection entirely.</p>
 <p>Then multiply this by tens of thousands of frames, across dozens of annotators with varying experience levels, working across time zones.</p>
 <p>The quality problem isn&rsquo;t &ldquo;are the boxes there.&rdquo; It&rsquo;s &ldquo;are the boxes geometrically precise enough to train a model that won&rsquo;t hallucinate phantom vehicles or miss real ones at highway speed.&rdquo;</p>
-<p><img src="https://visagetechnologies.com/app/uploads/2023/07/Picture9-770x428.webp" alt=""></p>
+<p><img src="../../images/blog/2_lidar.gif" alt=""></p>
 <h2 id="the-math-that-keeps-us-honest">The Math That Keeps Us Honest</h2>
 <p>Let&rsquo;s get into the geometry for a moment, because this is where most teams either get it right or silently accumulate error.</p>
 <p><strong>3D IoU</strong> is the standard metric for evaluating bounding box quality, but computing it for oriented (rotated) boxes in 3D is non-trivial. Unlike axis-aligned 2D IoU, which is just a min/max operation, 3D IoU for arbitrarily oriented boxes requires computing the intersection volume of two rotated cuboids. The typical approach decomposes this into a bird&rsquo;s-eye-view (BEV) polygon intersection (using the Sutherland-Hodgman algorithm or convex hull clipping) multiplied by the overlap along the vertical axis.</p>
@@ -421,6 +421,7 @@
 <h2 id="human-in-the-loop-not-a-fallback-a-feature">Human-in-the-Loop: Not a Fallback, a Feature</h2>
 <p>There&rsquo;s a persistent myth in ML engineering that HITL is a temporary crutch. Something you tolerate until the model gets good enough to run autonomously. In safety-critical AV perception, this is exactly backwards.</p>
 <p>HITL is a permanent, designed-in component of the pipeline. Here&rsquo;s why.</p>
+<p><img src="../../images/blog/3_lidar.gif" alt=""></p>
 <p><strong>Compliance and audit trails.</strong> Regulatory frameworks for autonomous vehicles increasingly require demonstrable human oversight of the perception training pipeline. This isn&rsquo;t just &ldquo;a human looked at it.&rdquo; It&rsquo;s traceable, timestamped review workflows where qualified reviewers validate annotation quality, flag edge cases, and sign off on dataset releases. Every annotation that feeds into a safety-critical model needs a chain of custody.</p>
 <p><strong>Edge case triage.</strong> The long tail of driving scenarios, construction zones, emergency vehicles with non-standard light patterns, pedestrians carrying large objects that distort their silhouette, cannot be reliably handled by automated QA alone. Human reviewers with domain expertise identify these cases, route them to specialized annotation workflows, and ensure they&rsquo;re adequately represented in the training set.</p>
 <p><strong>Consensus-based quality scoring.</strong> For ambiguous annotations (and in LiDAR, ambiguity is the norm, not the exception), we implement multi-annotator consensus workflows. The same frame gets independently annotated by multiple reviewers, and disagreements are algorithmically detected and escalated. The consensus score becomes a confidence weight during training. Uncertain annotations contribute less to the loss function, preventing the model from overfitting to noisy labels.</p>
@@ -430,6 +431,7 @@
 <p>From there, we build what&rsquo;s needed: automated ground truth validators that catch geometric inconsistencies before they reach the training set, monitoring dashboards that surface drift at the stratum level, HITL workflows that balance thoroughness with throughput, and the connective tissue between all of these, the MLOps pipelines that make the whole system self-correcting rather than reliant on periodic manual intervention.</p>
 <p>The unsexy truth about AV perception is that the teams shipping the most reliable systems aren&rsquo;t necessarily using the fanciest architectures. They&rsquo;re the ones who&rsquo;ve invested in annotation quality, geometric validation, continuous monitoring, and principled human oversight.</p>
 <p>That&rsquo;s the work. And it&rsquo;s the work that actually matters.</p>
+<p><img src="../../images/blog/4_lidar.gif" alt=""></p>
 
 
       </main>
