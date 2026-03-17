@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://husig.ai/careers/</loc>
+    <lastmod>2026-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/careers/data_annotators_17_march_26/</loc>
+    <lastmod>2026-03-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://husig.ai/tags/3d-object-detection/</loc>
     <lastmod>2026-03-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -115,9 +121,6 @@
   </url><url>
     <loc>https://husig.ai/posts/ai-business-trends-2026-reality-check/</loc>
     <lastmod>2025-12-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://husig.ai/careers/</loc>
-    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://husig.ai/tags/data-engineering/</loc>
     <lastmod>2025-12-02T00:00:00+00:00</lastmod>
