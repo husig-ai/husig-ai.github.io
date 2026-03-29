@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Husig.ai</title>
-    <link>https://husig.ai/husig_incog/</link>
+    <link>http://localhost:1313/husig_incog/</link>
     <description>Recent content on Husig.ai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://husig.ai/husig_incog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/husig_incog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
