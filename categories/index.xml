@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Husig.ai</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://husig.ai/categories/</link>
     <description>Recent content in Categories on Husig.ai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://husig.ai/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AIconf</title>
-      <link>http://localhost:1313/categories/aiconf/</link>
+      <link>https://husig.ai/categories/aiconf/</link>
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/aiconf/</guid>
+      <guid>https://husig.ai/categories/aiconf/</guid>
       <description></description>
     </item>
     <item>
       <title>Artificial Intelligence</title>
-      <link>http://localhost:1313/categories/artificial-intelligence/</link>
+      <link>https://husig.ai/categories/artificial-intelligence/</link>
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/artificial-intelligence/</guid>
+      <guid>https://husig.ai/categories/artificial-intelligence/</guid>
       <description></description>
     </item>
     <item>
       <title>Conference</title>
-      <link>http://localhost:1313/categories/conference/</link>
+      <link>https://husig.ai/categories/conference/</link>
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/conference/</guid>
+      <guid>https://husig.ai/categories/conference/</guid>
       <description></description>
     </item>
     <item>
       <title>Events</title>
-      <link>http://localhost:1313/categories/events/</link>
+      <link>https://husig.ai/categories/events/</link>
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/events/</guid>
+      <guid>https://husig.ai/categories/events/</guid>
       <description></description>
     </item>
     <item>
       <title>AI Strategy</title>
-      <link>http://localhost:1313/categories/ai-strategy/</link>
+      <link>https://husig.ai/categories/ai-strategy/</link>
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/ai-strategy/</guid>
+      <guid>https://husig.ai/categories/ai-strategy/</guid>
       <description></description>
     </item>
     <item>
       <title>Digital Transformation</title>
-      <link>http://localhost:1313/categories/digital-transformation/</link>
+      <link>https://husig.ai/categories/digital-transformation/</link>
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/digital-transformation/</guid>
+      <guid>https://husig.ai/categories/digital-transformation/</guid>
       <description></description>
     </item>
   </channel>

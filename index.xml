@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Husig.ai</title>
-    <link>http://localhost:1313/</link>
+    <link>https://husig.ai/</link>
     <description>Recent content in Posts on Husig.ai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://husig.ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mathematics Subject Matter Expert</title>
-      <link>http://localhost:1313/careers/math_sme_march_22_26/</link>
+      <link>https://husig.ai/careers/math_sme_march_22_26/</link>
       <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/careers/math_sme_march_22_26/</guid>
+      <guid>https://husig.ai/careers/math_sme_march_22_26/</guid>
       <description>We are looking for talented Mathematics Subject Matter Experts to join a high-priority annotation project building one of the world&amp;rsquo;s largest mathematical reasoning training datasets for a leading AI research client.&#xA;This is not rote data entry. You will write complete, rigorous solutions to olympiad and university-level competition problems, structure them into a precise schema, and contribute directly to the training data that shapes next-generation AI reasoning systems.&#xA;Key Responsibilities Mathematical Annotation (60%) Source and verify authentic problems from approved competition lists (IMO, USAMO, HMMT, RMM, Canada MO, and others) Write complete natural language solutions with every proof step shown — not just final answers Format all mathematical expressions correctly in LaTeX Classify each problem by knowledge point (number theory, combinatorics, algebra, geometry, inequalities) Assign difficulty ratings and structured metadata per project schema Assemble well-formed JSONL records that pass automated schema validation and QA review Quality &amp;amp; Review (25%) Perform self-checks against the 8-point QA acceptance criteria before submission Complete one revision cycle per problem if issues are flagged by QA Verify source authenticity and detect potential duplicates against existing entries Ensure solution depth and rigor meet the project&amp;rsquo;s ≥99% accuracy target Peer Review — Senior Track (15%) Independently verify submitted solutions from other annotators for mathematical correctness and completeness Review LaTeX accuracy and field completeness before batch submission Flag systematic issues or edge cases to the QA lead Preferred Qualifications Education &amp;amp; Experience Bachelor&amp;rsquo;s degree or higher in Mathematics, or equivalent demonstrated ability Olympiad or competition math experience — IMO, USAMO, HMMT, national olympiad, or equivalent Ability to write rigorous, complete proofs in clear English Experience with LaTeX for mathematical typesetting Core Mathematical Skills Number Theory: Divisibility, modular arithmetic, prime structure Combinatorics: Counting, graph theory, combinatorial arguments Algebra: Polynomials, inequalities, functional equations Geometry: Euclidean, projective, coordinate methods Preferred Skills MSc or PhD in Mathematics or related field Familiarity with formal proof systems — Lean 4, Coq, or Isabelle (separate specialist track available with higher compensation) Experience with structured data formats (JSON/JSONL) Prior work on AI training datasets or annotation projects Familiarity with the international competition problem ecosystem Soft Skills Extremely high attention to detail — quality is the primary metric Self-directed and able to manage time across async workflows Comfortable with structured schemas and technical documentation Reliable turnaround on assigned problem batches Projects You&amp;rsquo;ll Work On Mathematical Competition Dataset (Scope 1) Problems sourced from IMO, USAMO, HMMT, RMM, Canada MO, and related competitions Full natural language solution write-ups with LaTeX formatting Structured JSONL entries with source, knowledge point, difficulty, and solution fields Optional Lean 4 formal proof track for specialist annotators University STEM Question Bank (Scope 2) University and postgraduate level science and engineering past exam questions Multi-language coverage (English, Japanese, Korean, Arabic, Russian, Vietnamese, and others) JSON annotation with image extraction, PDF sourcing, and LaTeX formula conversion Covers mathematics, physics, engineering, and related disciplines How to Apply Please send your background and one sample solution (any competition problem of your choice, written to the standard described above) to careers@husig.</description>
     </item>
     <item>
       <title>Annotation, Drift, and the Hidden Geometry of AV LiDAR</title>
-      <link>http://localhost:1313/posts/avlidar/</link>
+      <link>https://husig.ai/posts/avlidar/</link>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/avlidar/</guid>
+      <guid>https://husig.ai/posts/avlidar/</guid>
       <description>Everyone talks about the models. PointPillars, CenterPoint, TransFusion, pick your architecture, throw a leaderboard number on it, ship a blog post. But if you&amp;rsquo;ve actually operated AV LiDAR pipelines in production, you know the model is maybe 20% of the problem.&#xA;The other 80%? Annotation quality assurance, ground truth validation, orientation math that breaks at edge cases, model drift that nobody notices until a safety team flags it six weeks later, and the human-in-the-loop workflows that keep the whole thing from quietly degrading.</description>
     </item>
     <item>
       <title>Our Key Takeaways from AIConf 2026</title>
-      <link>http://localhost:1313/posts/aiconf-2026-key-takeaways/</link>
+      <link>https://husig.ai/posts/aiconf-2026-key-takeaways/</link>
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/aiconf-2026-key-takeaways/</guid>
+      <guid>https://husig.ai/posts/aiconf-2026-key-takeaways/</guid>
       <description>Starting Our 2026 with AI Conference Last week, the HuSig.ai team had the privilege of attending AI Conf 2026: AI in Action, dubbed as Nepal&amp;rsquo;s first major AI conference, held on January 10 and 11, 2026, organized by Web Weekend Kathmandu (wwktm). The event brought together artificial intelligence practitioners, global researchers, and business leaders with engineers, designers, and AI builders from Nepal to share practical insights on building, deploying, securing, and evaluating AI in real products and systems.</description>
     </item>
     <item>
       <title>How we built a referral system without touching a single line of client code</title>
-      <link>http://localhost:1313/posts/referral_system/</link>
+      <link>https://husig.ai/posts/referral_system/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/referral_system/</guid>
+      <guid>https://husig.ai/posts/referral_system/</guid>
       <description>How we created a platform-agnostic referral tracking system that increased organizer acquisition by 40%&#xA;A ticketing startup came to us with a growth challenge: they wanted to launch a referral program to acquire new event organizers, but their engineering team was already stretched thin. They couldn&amp;rsquo;t afford to build referral infrastructure into their core platform.&#xA;Most referral solutions—Rewardful, FirstPromoter, PartnerStack—require deep integration with your billing and user systems. That wasn&amp;rsquo;t an option here.</description>
     </item>
     <item>
       <title>How we built an AI-Powered newsletter that increased ticket sales by 134%</title>
-      <link>http://localhost:1313/posts/ai_newsletter/</link>
+      <link>https://husig.ai/posts/ai_newsletter/</link>
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ai_newsletter/</guid>
+      <guid>https://husig.ai/posts/ai_newsletter/</guid>
       <description>A case study in turning event data into personalized engagement&#xA;A ticketing startup approached us with a familiar problem: they had thousands of users across dozens of cities, but their email marketing felt like shouting into the void. Generic blast emails. Low open rates. Even lower conversions.&#xA;They needed a system that could understand their users—where they lived, what events they attended, what they might want next—and reach them with the right message at the right time.</description>
     </item>
     <item>
       <title>What Actually Matters in AI for 2026: A Reality Check for Businesses</title>
-      <link>http://localhost:1313/posts/ai-business-trends-2026-reality-check/</link>
+      <link>https://husig.ai/posts/ai-business-trends-2026-reality-check/</link>
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ai-business-trends-2026-reality-check/</guid>
+      <guid>https://husig.ai/posts/ai-business-trends-2026-reality-check/</guid>
       <description>At Husig.ai, we spend our days in the trenches of digital transformation—navigating messy spreadsheets, legacy databases, and the manual processes that keep businesses running. We’re often asked if we’re building the next &amp;ldquo;world-changing&amp;rdquo; super-intelligence.&#xA;Our answer? No. We’re building tools that help you finish your work by 5 PM.&#xA;However, to build for today, we have to keep an eye on where the giants are heading. We recently analyzed the 2026 outlooks from Microsoft and Google Cloud.</description>
     </item>
     <item>
       <title>How we built a synthetic data platform that cut ML development time by 60%</title>
-      <link>http://localhost:1313/posts/fabri/</link>
+      <link>https://husig.ai/posts/fabri/</link>
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/fabri/</guid>
+      <guid>https://husig.ai/posts/fabri/</guid>
       <description>How synthetic data generation transformed ML development workflows&#xA;Machine learning teams waste weeks waiting for production data access. Legal reviews, anonymization pipelines, compliance approvals—by the time data arrives, project timelines have slipped. Development environments sit empty while engineers context-switch to other work.&#xA;We saw this problem across multiple client engagements and decided to build a solution: Fabri, a synthetic data generation platform that gives ML teams realistic, privacy-safe datasets in minutes instead of weeks.</description>
     </item>
     <item>
       <title>How we built a data obfuscation platform that made production data shareable</title>
-      <link>http://localhost:1313/posts/incog/</link>
+      <link>https://husig.ai/posts/incog/</link>
       <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/incog/</guid>
+      <guid>https://husig.ai/posts/incog/</guid>
       <description>How intelligent data obfuscation unlocked collaboration without compromising privacy&#xA;Companies sit on valuable production data they can&amp;rsquo;t share—with vendors, partners, or even internal teams. PII regulations, contractual obligations, and security policies lock data behind approval processes that take weeks.&#xA;A healthcare company can&amp;rsquo;t share patient data with an ML vendor. A bank can&amp;rsquo;t give transaction logs to a fraud detection partner. An e-commerce platform can&amp;rsquo;t export customer behavior to their analytics consultants.</description>
     </item>
   </channel>
