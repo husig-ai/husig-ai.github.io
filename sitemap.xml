@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://husig.ai/tags/dual-problem/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/mnist/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/morphing/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/optimal-transport/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/posts/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/sinkhorn/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/tags/wasserstein/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://husig.ai/posts/wasserstein/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://husig.ai/careers/</loc>
     <lastmod>2026-03-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -33,12 +60,6 @@
     <lastmod>2026-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://husig.ai/tags/perception/</loc>
-    <lastmod>2026-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://husig.ai/posts/</loc>
-    <lastmod>2026-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://husig.ai/tags/</loc>
     <lastmod>2026-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://husig.ai/tags/agentic-workflows/</loc>
